@@ -1,0 +1,8 @@
+.leaflet-container {
+    height: 50vh;
+    width: 50vw;
+    margin: 0 auto;
+    position: relative;
+    top: calc(50vh - 25vh);
+    background-color: white;
+}
